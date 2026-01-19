@@ -12,6 +12,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Predator Badlands | B | Surprised at how much I enjoyed this, with my takeaway being that this film is everything that *Avatar: Fire and Ash* wanted to be, but wasn't... Would recommend. |
 | Sisu | B | Enjoyed this one — probably not something I'd sit down with the missus to watch (*due to how gory it is*). I'd recommend it to her father to watch. Super solid movie. |
 | Prisoners | B | Jake Gyllenhaal is one of my favourite actors, so it's no surprise to see that he's cooked in this film. The film is full of good twists, gritty moments, all wrapped in a thrilling plot. |
+| People You Meet on Vacation | C | I don't think I'm quite the target audience for this one, Olivia rated it a B. I think it's an alright way to kill a couple of hours in the evening |
 
 ---
 
