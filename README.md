@@ -16,6 +16,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | People You Meet on Vacation | C | I don't think I'm quite the target audience for this one, Olivia rated it a B. I think it's an alright way to kill a couple of hours in the evening |
 | Train Dreams | A+ | Got reccomended this movie by a colleague at work. It's hard to find the words to describe this movie, it's a beautiful film about love, loss, life and the human spirit. Would reccomend to anyone. |
 | Game Night | C+ | Watched this movie with a bowl of Ice Cream, not bad. |
+| Reservoir Dogs | A | Didn't realise this was Tarantino's first film. Looks super nice, clearly done on a low budget, but it doesn't really show. Super enjoyable. |
 
 ---
 
