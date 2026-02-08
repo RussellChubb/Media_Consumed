@@ -18,6 +18,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Game Night | C+ | Watched this movie with a bowl of Ice Cream, not bad. |
 | Reservoir Dogs | A | Didn't realise this was Tarantino's first film. Looks super nice, clearly done on a low budget, but it doesn't really show. Super enjoyable. |
 | Nuremburg | A | Dark, Semi-Gritty, long ass movie though - Would reccomend |
+| Kill Bill: The Whole Bloody Affair | B | Really liked it, thought the conclusion was weak sauce. |
 
 ---
 
@@ -28,6 +29,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Marty Supreme | Heard this was Timmy's best work yet... |
 | One Battle After Another | Already tried to download this, will get around to it again. |
 | Sinners | It won Best Picture of 2025, so keen to give it a whirl... |
+| Old Guard | Got reccomended it by a friend |
 
 ---
 
