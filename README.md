@@ -20,6 +20,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Nuremburg | A | Dark, Semi-Gritty, long ass movie though - Would reccomend |
 | Kill Bill: The Whole Bloody Affair | B | Really liked it, thought the conclusion was weak sauce. |
 | The Rip | A | Enjoyed it! - Really liked the twist(s)! |
+| Woman of the Hour | B | Yeah, pretty good - Side note, these descriptions seem to be getting shorter and shorter... |
 
 ---
 
