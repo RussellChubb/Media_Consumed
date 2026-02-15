@@ -21,6 +21,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Kill Bill: The Whole Bloody Affair | B | Really liked it, thought the conclusion was weak sauce. |
 | The Rip | A | Enjoyed it! - Really liked the twist(s)! |
 | Woman of the Hour | B | Yeah, pretty good - Side note, these descriptions seem to be getting shorter and shorter... |
+| Marty Supreme | C | Felt like too much going on. |
 
 ---
 
@@ -28,7 +29,6 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 
 | Title | Notes |
 |------|------|
-| Marty Supreme | Heard this was Timmy's best work yet... |
 | One Battle After Another | Already tried to download this, will get around to it again. |
 | Sinners | It won Best Picture of 2025, so keen to give it a whirl... |
 | Old Guard | Got reccomended it by a friend |
