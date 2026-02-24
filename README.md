@@ -25,6 +25,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Skid Marks | C | I enjoy a stupid raunchy comedy from time to time... |
 | Napolean Dynamite | C | Cult classic, wasn't a huge fan, but wasn't bad. |
 | American Pie: Girls Rule | C | Yeah, not bad. This was Olivias pick and the hill she died on... |
+| Rental Family | A | Really enjoyed it, super creative story! |
 
 ---
 
