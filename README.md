@@ -28,6 +28,7 @@ A lightweight, public log of movies I’ve watched and books I’ve read.
 | Rental Family | A | Really enjoyed it, super creative story! |
 | Sully | B+ | Great work from Eastwood, very intense. |
 | Brick | C- | Interesting concept, kinda boring though. Part of the ending annoyed me too. |
+| Paprika | B | Very interesting film visually, kind of hard to follow.
 
 ---
 
